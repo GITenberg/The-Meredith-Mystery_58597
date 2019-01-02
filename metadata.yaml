@@ -1,0 +1,22 @@
+_repo: The-Meredith-Mystery_58597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+description: ''
+gutenberg_issued: '2019-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Meredith Mystery
+url: http://www.gutenberg.org/ebooks/58597
